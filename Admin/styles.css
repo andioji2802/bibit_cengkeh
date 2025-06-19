@@ -1,0 +1,309 @@
+/* Reset CSS */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #f4f4f4;
+    color: #212529;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+/* Header */
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    margin-bottom: 0; /* Menghapus margin bawah */
+    width: calc(100% - 220px); /* Mengurangi lebar header untuk menu navigasi */
+    position: fixed;
+    top: 0;
+    left: 220px; /* Menggeser header ke kanan sesuai lebar menu navigasi */
+    z-index: 1000; /* Pastikan di atas menu navigasi */
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+/* Navigation */
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 220px; /* Lebar menu navigasi */
+    height: 100%;
+    background-color: #2196F3;
+    overflow-x: hidden;
+    overflow-y: auto;
+    z-index: 999; /* Di bawah header */
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: block;
+}
+
+nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+}
+
+nav ul li a:hover,
+nav ul li a:focus {
+    background-color: #0b7dda; /* Ganti warna latar belakang saat hover/fokus */
+    color: white;
+}
+
+/* Main Content Area */
+#main-content {
+    margin-left: 220px; /* Mengatur margin untuk konten agar tidak tertutup menu navigasi */
+    margin-top: 80px; /* Mengatur margin untuk konten agar tidak tertutup header */
+    padding: 20px;
+    padding-bottom: 60px; /* Memberi ruang untuk footer */
+}
+
+/* Sections */
+.section {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Table Styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+table, th, td {
+    border: 1px solid #ddd;
+}
+th, td {
+    padding: 12px;
+    text-align: left;
+}
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+/* Form Styles */
+form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: center;
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+form label {
+    display: block;
+    font-weight: bold;
+    color: #333;
+}
+
+form input[type="text"], 
+form input[type="password"], 
+form input[type="email"] {
+    width: calc(100% - 20px); /* Sesuaikan lebar input dengan padding */
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+form select, form input[type="submit"] {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+form input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+form input[type="submit"]:hover {
+    background-color: #0000FF;
+}
+
+form input[type="button"] {
+    background-color: #2196F3;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+form input[type="button"]:hover {
+    background-color: #0b7dda;
+}
+
+/* Form Group Styles */
+.form-group {
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.form-group label {
+    font-weight: bold;
+    color: #333;
+}
+
+.form-group input {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+
+/* Footer */
+.footer {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 220px; /* Menggeser footer ke kanan sesuai lebar menu navigasi */
+    width: calc(100% - 220px); /* Mengurangi lebar footer untuk menu navigasi */
+    z-index: 1000; /* Pastikan di atas konten lainnya */
+}
+
+.footer ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+.footer ul li {
+    margin: 0 10px;
+}
+
+.footer ul li img {
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+}
+
+/* Pagination Styles */
+.pagination {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 20px 0; /* Spasi di bawah pagination */
+    list-style: none;
+}
+
+.page-item {
+    margin: 0 5px;
+}
+
+.page-link {
+    display: block;
+    padding: 10px 15px;
+    color: #007bff;
+    text-decoration: none;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.page-link:hover {
+    background-color: #e9ecef;
+}
+
+.page-item.disabled .page-link {
+    color: #6c757d;
+    pointer-events: none;
+}
+
+.page-item.active .page-link {
+    background-color: #007bff;
+    color: white;
+    border-color: #007bff;
+}
+
+.pagination .page-item.active .page-link {
+    background-color: #4CAF50;
+    border-color: #4CAF50;
+}
+
+.pagination .page-link {
+    color: #4CAF50;
+}
+
+.pagination .page-item.disabled .page-link {
+    color: #ddd;
+    pointer-events: none;
+}
+
+/* Responsive Design */
+@media only screen and (max-width: 768px) {
+    #main-content {
+        margin-left: 0; /* Reset margin untuk layar kecil */
+    }
+
+    nav ul {
+        position: static;
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+}
+
+/* Gaya Diagram */
+#app-usage {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center; /* Memastikan diagram berada di tengah */
+}
+
+#app-usage h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+}
+
+#chart-container {
+    width: 50%; /* Mengatur lebar kontainer */
+    max-width: 600px; /* Lebar maksimum diagram */
+    margin: 0 auto; /* Mengatur agar diagram berada di tengah */
+}
+
+canvas {
+    width: 100% !important; /* Sesuaikan dengan lebar kontainer */
+    height: auto !important; /* Sesuaikan tinggi secara otomatis */
+}
+

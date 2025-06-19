@@ -1,0 +1,212 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.side-menu {
+    width: 250px;
+    background-color: #333;
+    color: #fff;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding-top: 20px;
+}
+
+.brand-name {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.brand-name h1 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.side-menu ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.side-menu ul li {
+    padding: 10px 20px;
+    border-bottom: 1px solid #555;
+}
+
+.side-menu ul li a {
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.side-menu ul li a img {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+.container {
+    margin-left: 250px;
+    padding: 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+}
+
+.search {
+    margin-right: 20px;
+}
+
+.search input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 5px;
+}
+
+.search button {
+    padding: 8px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.search button img {
+    width: 16px; /* Sesuaikan ukuran ikon sesuai kebutuhan */
+    height: 16px; /* Sesuaikan ukuran ikon sesuai kebutuhan */
+    vertical-align: middle; /* Untuk mengatur posisi vertikal ikon agar tengah */
+    margin-right: 5px; /* Jarak antara ikon dan teks di dalam tombol */
+}
+
+
+.user {
+    display: flex;
+    align-items: center;
+}
+
+.user .btn {
+    background-color: #28a745;
+    color: #fff;
+    padding: 8px 12px;
+    text-decoration: none;
+    border-radius: 4px;
+    margin-right: 10px;
+}
+
+.user img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.card {
+    flex: 1;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+}
+
+.card .box {
+    flex: 1;
+}
+
+.card h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.card h3 {
+    font-size: 18px;
+    color: #666;
+}
+
+.card .icon-case {
+    padding: 10px;
+    background-color: #e9ecef;
+    border-radius: 50%;
+}
+
+.recent-payments,
+.new-students {
+    margin-bottom: 20px;
+}
+
+.title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.title .btn {
+    background-color: #007bff;
+    color: #fff;
+    padding: 6px 10px;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table th,
+table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.table th {
+    background-color: #f2f2f2;
+}
+
+.table td {
+    background-color: #fff;
+}
+
+.new-students img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+}

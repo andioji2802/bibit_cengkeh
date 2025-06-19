@@ -1,0 +1,551 @@
+/* Reset semua elemen */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Styling untuk body */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #1f1d2b;
+    color: #fff;
+}
+
+/* Sidebar menu */
+.side-menu {
+    width: 250px;
+    background-color: #252836;
+    color: #fff;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding-top: 20px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Judul brand */
+.brand-name {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.brand-name h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #6c5ce7;
+}
+
+/* Daftar menu */
+.side-menu ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.side-menu ul li {
+    padding: 15px 20px;
+    border-bottom: 1px solid #3a3a56;
+    transition: background-color 0.3s;
+}
+
+.side-menu ul li a {
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.side-menu ul li:hover,
+.side-menu ul li.active {
+    background-color: #6c5ce7;
+}
+
+.side-menu ul li a img {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+/* Konten utama */
+.container {
+    margin-left: 250px;
+    padding: 20px;
+    background-color: #1f1d2b;
+    min-height: 100vh;
+}
+
+/* Header */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    background-color: #252836;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Navigasi */
+.nav {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+/* Pencarian */
+.search {
+    display: flex;
+    align-items: center;
+    margin-right: auto;
+}
+
+.search input {
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    margin-right: 5px;
+    background-color: #3a3a56;
+    color: #fff;
+}
+
+.search button {
+    padding: 8px;
+    background-color: #6c5ce7;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.search button img {
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+/* Profil pengguna */
+.user-profile {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.user-profile .name-status {
+    display: flex;
+    flex-direction: column;
+    margin-right: 10px;
+    text-align: right;
+}
+
+.user-profile .name {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.user-profile .name span {
+    font-size: 14px;
+    color: #6c5ce7;
+}
+
+.user-profile .status {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 14px;
+    color: #6c5ce7;
+}
+
+.user-profile .status .status-indicator {
+    width: 8px;
+    height: 8px;
+    background-color: #28a745;
+    border-radius: 50%;
+    margin-left: 5px;
+}
+
+.user-profile .status.offline .status-indicator {
+    background-color: #dc3545;
+}
+
+.user-profile img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+/* Konten utama */
+.content {
+    background-color: #252836;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Kartu */
+.cards {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    gap: 20px;
+}
+
+.card {
+    flex: 1 1 300px; /* Atur ukuran kartu sesuai keinginan Anda */
+    padding: 20px;
+    background-color: #3a3a56;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+}
+
+.card .box {
+    flex: 1;
+}
+
+.card h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.card h3 {
+    font-size: 18px;
+    color: #aaa;
+}
+
+.card .icon-case {
+    padding: 10px;
+    background-color: #6c5ce7;
+    border-radius: 50%;
+}
+
+.card .icon-case img {
+    width: 24px;
+    height: 24px;
+}
+
+/* Pembayaran terbaru dan siswa baru */
+.recent-payments,
+.new-students {
+    margin-bottom: 20px;
+}
+
+/* Judul */
+.title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.title .btn {
+    background-color: #6c5ce7;
+    color: #fff;
+    padding: 6px 10px;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+/* Tabel */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table th,
+table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #3a3a56;
+}
+
+.table th {
+    background-color: #3a3a56;
+}
+
+.table td {
+    background-color: #252836;
+}
+
+/* Gambar siswa baru */
+.new-students img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+/* Input */
+.input {
+    width: calc(100% - 22px); /* Atur lebar input agar sesuai */
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    background-color: #3a3a56;
+    color: #fff;
+}
+
+/* Styling untuk input dan select */
+.input, .input select {
+    width: calc(100% - 22px); /* Atur lebar input agar sesuai */
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    background-color: #3a3a56;
+    color: #fff;
+    appearance: none; /* Hilangkan panah bawaan pada select */
+}
+
+/* Styling untuk menghilangkan panah bawaan pada select */
+.input select {
+    -webkit-appearance: none; /* Untuk browser berbasis WebKit */
+    -moz-appearance: none; /* Untuk Firefox */
+    appearance: none; /* Standar */
+}
+
+/* Tambahkan panah custom pada select */
+.input select {
+    background: url('data:image/svg+xml;base64,...') no-repeat right 10px center; /* Ganti dengan SVG base64 encoded dari panah custom */
+    background-color: #3a3a56; /* Sama seperti input lainnya */
+}
+
+/* Tombol */
+.btn {
+    padding: 10px 20px;
+    background-color: #6c5ce7;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.btn.clear {
+    background-color: #ffc107;
+}
+
+.btn.back {
+    background-color: #6c757d;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+/* Gaya untuk menampilkan profil di bagian atas dengan ukuran 4x6 */
+.saved-profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px auto;
+    max-width: 450px; /* Lebar maksimum yang lebih besar */
+    background-color: #3a3a56;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.saved-profile h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.saved-profile .user-profile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.saved-profile .user-profile img {
+    width: 100px; /* Sesuaikan ukuran foto profil sesuai keinginan Anda */
+    height: 150px; /* Sesuaikan ukuran foto profil sesuai keinginan Anda */
+    border-radius: 8px;
+}
+
+.saved-profile .name-status {
+    margin-top: 10px;
+    text-align: center; /* Center align the text */
+}
+
+.saved-profile .name {
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 5px;
+}
+
+.saved-profile .status {
+    font-size: 14px;
+    color: #6c5ce7;
+}
+
+.saved-profile .status-indicator {
+    width: 8px;
+    height: 8px;
+    background-color: #28a745;
+    border-radius: 50%;
+    margin-left: 5px;
+}
+
+.saved-profile .status.offline .status-indicator {
+    background-color: #dc3545;
+}
+
+/* Input dan Label */
+.input-group {
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center; /* Vertically center items */
+}
+
+.input-group label {
+    width: 120px; /* Fixed width for labels */
+    margin-right: 20px; /* Spacing between label and input */
+    color: #fff;
+}
+
+.input-group input[type="text"],
+.input-group input[type="password"],
+.input-group input[type="file"] {
+    flex: 1; /* Take remaining space */
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #3a3a56;
+    color: #fff;
+}
+
+.input-group input[type="file"] {
+    cursor: pointer; /* Pointer cursor for file input */
+}
+
+/* Preview Gambar */
+#preview-container {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#preview {
+    max-width: 100%;
+    max-height: 200px; /* Adjusted max-height for preview image */
+    border-radius: 8px;
+}
+
+/* Grup Tombol */
+.button-group {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center; /* Center align buttons */
+}
+
+.button-group .btn {
+    margin-right: 10px; /* Spacing between buttons */
+}
+
+/* Form Profil */
+.form-profile {
+    margin-top: 20px;
+    max-width: 400px;
+    background-color: #3a3a56;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: #fff;
+}
+
+.form-profile h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.form-profile .input-group {
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.form-profile .input-group label {
+    width: 120px;
+    margin-right: 20px;
+    color: #fff;
+}
+
+.form-profile .input-group input[type="text"],
+.form-profile .input-group input[type="password"],
+.form-profile .input-group input[type="file"] {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #3a3a56;
+    color: #fff;
+    max-width: calc(100% - 140px); /* Menggunakan calc untuk menghitung max-width */
+}
+
+.form-profile .input-group input[type="file"] {
+    cursor: pointer;
+}
+
+.form-profile .button-group {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.form-profile .button-group .btn {
+    margin-right: 10px;
+    background-color: #6c5ce7;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.form-profile .button-group .btn:hover {
+    background-color: #5b48a2;
+}
+
+/* Tombol Edit dan Hapus */
+.btn-edit,
+.btn-delete {
+    padding: 5px 10px;
+    border-radius: 100px;
+    text-decoration: solid;
+    color: white;
+    display: inline-block;  /* Ensure both buttons are inline-block for same display behavior */
+    font-size: 14px;  /* Ensure both buttons have same font size */
+    width: 80px; /* Same width for both buttons */
+    text-align: center; /* Center align text inside buttons */
+    box-sizing: border-box; /* Ensure padding and border are included in the element's total width and height */
+}
+
+.btn-edit {
+    background-color: #28a745;
+}
+
+.btn-edit:hover {
+    background-color: #218838;
+}
+
+.btn-delete {
+    background-color: #dc3545;
+}
+
+.btn-delete:hover {
+    background-color: #c82333;
+}

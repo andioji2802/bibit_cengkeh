@@ -1,0 +1,1793 @@
+[
+    {
+        "jenis": "zanzibar",
+        "daun": "Tegak & tidak layu",
+        "batang": "Kulit batang mulus tanpa luka",
+        "tinggi": "90 cm",
+        "umur": "18 bulan",
+        "akar": "Banyak & Bercabang",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Besar & Lurus",
+        "tinggi": "90 cm",
+        "umur": "18 bulan",
+        "akar": "Tumbuh merata",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Hijau tapi Bercak",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "60 cm",
+        "umur": "7 bulan",
+        "akar": "Akar tipis atau pendek",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Tegak & tidak layu",
+        "batang": "Kuat & tidak rapuh",
+        "tinggi": "60 cm",
+        "umur": "18 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Hijau tapi Bercak",
+        "batang": "Retak atau patah",
+        "tinggi": "60 cm",
+        "umur": "11 bulan",
+        "akar": "Akar tipis atau pendek",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar & Hijau",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "80 cm",
+        "umur": "12 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar tapi Kuning",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "40 cm",
+        "umur": "5 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Rusak atau Menggulung",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "60 cm",
+        "umur": "8 bulan",
+        "akar": "Akar busuk",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Halus tanpa bercak",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "90 cm",
+        "umur": "18 bulan",
+        "akar": "kuat & sehat",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Halus tanpa bercak",
+        "batang": "Besar & Lurus",
+        "tinggi": "70 cm",
+        "umur": "24 bulan",
+        "akar": "Tumbuh merata",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar tapi Kuning",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "50 cm",
+        "umur": "10 bulan",
+        "akar": "Sedikit Bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Rusak atau Menggulung",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "40 cm",
+        "umur": "10 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Tegak & tidak layu",
+        "batang": "Kuat & tidak rapuh",
+        "tinggi": "70 cm",
+        "umur": "18 bulan",
+        "akar": "Tumbuh merata",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Sempit & Kuning",
+        "batang": "Retak atau patah",
+        "tinggi": "20 cm",
+        "umur": "6 bulan",
+        "akar": "Sedikit Bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Rusak atau Menggulung",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "50 cm",
+        "umur": "7 bulan",
+        "akar": "Sedikit Bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Hijau tapi Bercak",
+        "batang": "Retak atau patah",
+        "tinggi": "50 cm",
+        "umur": "8 bulan",
+        "akar": "Akar busuk",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Rusak atau Menggulung",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "30 cm",
+        "umur": "5 bulan",
+        "akar": "Sedikit Bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Sempit & Kuning",
+        "batang": "Rapuh & kering",
+        "tinggi": "50 cm",
+        "umur": "9 bulan",
+        "akar": "Sedikit Bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Tegak & tidak layu",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "60 cm",
+        "umur": "12 bulan",
+        "akar": "Tumbuh merata",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Hijau tapi Bercak",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "10 cm",
+        "umur": "5 bulan",
+        "akar": "Akar tipis atau pendek",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Tegak & tidak layu",
+        "batang": "Besar & Lurus",
+        "tinggi": "80 cm",
+        "umur": "12 bulan",
+        "akar": "Tumbuh merata",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Halus tanpa bercak",
+        "batang": "Kuat & tidak rapuh",
+        "tinggi": "60 cm",
+        "umur": "12 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Tegak & tidak layu",
+        "batang": "Besar & Lurus",
+        "tinggi": "80 cm",
+        "umur": "18 bulan",
+        "akar": "Banyak & Bercabang",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Tegak & tidak layu",
+        "batang": "Kuat & tidak rapuh",
+        "tinggi": "60 cm",
+        "umur": "18 bulan",
+        "akar": "Banyak & Bercabang",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Hijau tapi Bercak",
+        "batang": "Retak atau patah",
+        "tinggi": "40 cm",
+        "umur": "5 bulan",
+        "akar": "Akar busuk",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Kuat & tidak rapuh",
+        "tinggi": "80 cm",
+        "umur": "24 bulan",
+        "akar": "Banyak & Bercabang",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar tapi Kuning",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "60 cm",
+        "umur": "11 bulan",
+        "akar": "Sedikit Bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Sempit & Kuning",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "20 cm",
+        "umur": "5 bulan",
+        "akar": "Akar tipis atau pendek",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Tegak & tidak layu",
+        "batang": "Kulit batang mulus tanpa luka",
+        "tinggi": "70 cm",
+        "umur": "18 bulan",
+        "akar": "Tumbuh merata",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Kulit batang mulus tanpa luka",
+        "tinggi": "90 cm",
+        "umur": "18 bulan",
+        "akar": "kuat & sehat",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar tapi Kuning",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "20 cm",
+        "umur": "9 bulan",
+        "akar": "Akar tipis atau pendek",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Halus tanpa bercak",
+        "batang": "Kulit batang mulus tanpa luka",
+        "tinggi": "70 cm",
+        "umur": "18 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar & Hijau",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "60 cm",
+        "umur": "24 bulan",
+        "akar": "Tumbuh merata",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Tegak & tidak layu",
+        "batang": "Kuat & tidak rapuh",
+        "tinggi": "80 cm",
+        "umur": "12 bulan",
+        "akar": "Tumbuh merata",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Hijau tapi Bercak",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "30 cm",
+        "umur": "5 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Tegak & tidak layu",
+        "batang": "Besar & Lurus",
+        "tinggi": "60 cm",
+        "umur": "18 bulan",
+        "akar": "Banyak & Bercabang",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Kuat & tidak rapuh",
+        "tinggi": "60 cm",
+        "umur": "24 bulan",
+        "akar": "Tumbuh merata",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Besar & Lurus",
+        "tinggi": "90 cm",
+        "umur": "24 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Halus tanpa bercak",
+        "batang": "Kulit batang mulus tanpa luka",
+        "tinggi": "80 cm",
+        "umur": "12 bulan",
+        "akar": "kuat & sehat",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "70 cm",
+        "umur": "18 bulan",
+        "akar": "kuat & sehat",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar tapi Kuning",
+        "batang": "Retak atau patah",
+        "tinggi": "30 cm",
+        "umur": "11 bulan",
+        "akar": "Akar busuk",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar & Hijau",
+        "batang": "Besar & Lurus",
+        "tinggi": "60 cm",
+        "umur": "12 bulan",
+        "akar": "Tumbuh merata",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Layu",
+        "batang": "Rapuh & kering",
+        "tinggi": "60 cm",
+        "umur": "8 bulan",
+        "akar": "Akar tipis atau pendek",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar & Hijau",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "60 cm",
+        "umur": "24 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Kulit batang mulus tanpa luka",
+        "tinggi": "60 cm",
+        "umur": "12 bulan",
+        "akar": "kuat & sehat",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Tegak & tidak layu",
+        "batang": "Kulit batang mulus tanpa luka",
+        "tinggi": "80 cm",
+        "umur": "18 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Layu",
+        "batang": "Rapuh & kering",
+        "tinggi": "20 cm",
+        "umur": "8 bulan",
+        "akar": "Sedikit Bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Tegak & tidak layu",
+        "batang": "Kulit batang mulus tanpa luka",
+        "tinggi": "80 cm",
+        "umur": "12 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Kulit batang mulus tanpa luka",
+        "tinggi": "90 cm",
+        "umur": "24 bulan",
+        "akar": "Tumbuh merata",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Sempit & Kuning",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "50 cm",
+        "umur": "10 bulan",
+        "akar": "Sedikit Bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Kuat & tidak rapuh",
+        "tinggi": "70 cm",
+        "umur": "18 bulan",
+        "akar": "Tumbuh merata",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar & Hijau",
+        "batang": "Kuat & tidak rapuh",
+        "tinggi": "60 cm",
+        "umur": "12 bulan",
+        "akar": "kuat & sehat",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Sempit & Kuning",
+        "batang": "Rapuh & kering",
+        "tinggi": "40 cm",
+        "umur": "5 bulan",
+        "akar": "Sedikit Bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar & Hijau",
+        "batang": "Kulit batang mulus tanpa luka",
+        "tinggi": "90 cm",
+        "umur": "18 bulan",
+        "akar": "Banyak & Bercabang",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar & Hijau",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "60 cm",
+        "umur": "12 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Hijau tapi Bercak",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "60 cm",
+        "umur": "8 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Kuat & tidak rapuh",
+        "tinggi": "80 cm",
+        "umur": "12 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "90 cm",
+        "umur": "24 bulan",
+        "akar": "Banyak & Bercabang",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "70 cm",
+        "umur": "18 bulan",
+        "akar": "Banyak & Bercabang",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Tegak & tidak layu",
+        "batang": "Kulit batang mulus tanpa luka",
+        "tinggi": "70 cm",
+        "umur": "18 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Rusak atau Menggulung",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "30 cm",
+        "umur": "7 bulan",
+        "akar": "Akar busuk",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar tapi Kuning",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "20 cm",
+        "umur": "8 bulan",
+        "akar": "Sedikit Bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar & Hijau",
+        "batang": "Besar & Lurus",
+        "tinggi": "60 cm",
+        "umur": "18 bulan",
+        "akar": "Tumbuh merata",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar tapi Kuning",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "50 cm",
+        "umur": "6 bulan",
+        "akar": "Sedikit Bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar & Hijau",
+        "batang": "Besar & Lurus",
+        "tinggi": "90 cm",
+        "umur": "24 bulan",
+        "akar": "Banyak & Bercabang",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Hijau tapi Bercak",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "40 cm",
+        "umur": "10 bulan",
+        "akar": "Akar tipis atau pendek",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Rusak atau Menggulung",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "10 cm",
+        "umur": "9 bulan",
+        "akar": "Akar busuk",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar & Hijau",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "60 cm",
+        "umur": "24 bulan",
+        "akar": "kuat & sehat",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar tapi Kuning",
+        "batang": "Retak atau patah",
+        "tinggi": "60 cm",
+        "umur": "11 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar & Hijau",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "80 cm",
+        "umur": "12 bulan",
+        "akar": "kuat & sehat",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar & Hijau",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "90 cm",
+        "umur": "24 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "80 cm",
+        "umur": "24 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Kulit batang mulus tanpa luka",
+        "tinggi": "90 cm",
+        "umur": "24 bulan",
+        "akar": "kuat & sehat",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Tegak & tidak layu",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "60 cm",
+        "umur": "12 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Halus tanpa bercak",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "90 cm",
+        "umur": "24 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Sempit & Kuning",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "60 cm",
+        "umur": "5 bulan",
+        "akar": "Akar tipis atau pendek",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Layu",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "10 cm",
+        "umur": "6 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Sempit & Kuning",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "30 cm",
+        "umur": "8 bulan",
+        "akar": "Sedikit Bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar tapi Kuning",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "10 cm",
+        "umur": "6 bulan",
+        "akar": "Akar busuk",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar tapi Kuning",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "60 cm",
+        "umur": "8 bulan",
+        "akar": "Sedikit Bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar tapi Kuning",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "10 cm",
+        "umur": "5 bulan",
+        "akar": "Akar tipis atau pendek",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar & Hijau",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "90 cm",
+        "umur": "18 bulan",
+        "akar": "kuat & sehat",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar tapi Kuning",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "40 cm",
+        "umur": "5 bulan",
+        "akar": "Akar tipis atau pendek",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "60 cm",
+        "umur": "12 bulan",
+        "akar": "kuat & sehat",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Hijau tapi Bercak",
+        "batang": "Rapuh & kering",
+        "tinggi": "10 cm",
+        "umur": "8 bulan",
+        "akar": "Akar tipis atau pendek",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar & Hijau",
+        "batang": "Kuat & tidak rapuh",
+        "tinggi": "80 cm",
+        "umur": "12 bulan",
+        "akar": "Banyak & Bercabang",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Halus tanpa bercak",
+        "batang": "Kuat & tidak rapuh",
+        "tinggi": "80 cm",
+        "umur": "12 bulan",
+        "akar": "kuat & sehat",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Tegak & tidak layu",
+        "batang": "Kulit batang mulus tanpa luka",
+        "tinggi": "90 cm",
+        "umur": "18 bulan",
+        "akar": "Tumbuh merata",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Rusak atau Menggulung",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "20 cm",
+        "umur": "5 bulan",
+        "akar": "Akar busuk",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar tapi Kuning",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "20 cm",
+        "umur": "10 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Sempit & Kuning",
+        "batang": "Retak atau patah",
+        "tinggi": "30 cm",
+        "umur": "5 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar & Hijau",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "70 cm",
+        "umur": "12 bulan",
+        "akar": "Tumbuh merata",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Halus tanpa bercak",
+        "batang": "Besar & Lurus",
+        "tinggi": "60 cm",
+        "umur": "24 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Sempit & Kuning",
+        "batang": "Rapuh & kering",
+        "tinggi": "20 cm",
+        "umur": "5 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Hijau tapi Bercak",
+        "batang": "Retak atau patah",
+        "tinggi": "40 cm",
+        "umur": "6 bulan",
+        "akar": "Akar tipis atau pendek",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Sempit & Kuning",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "40 cm",
+        "umur": "7 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "70 cm",
+        "umur": "18 bulan",
+        "akar": "Tumbuh merata",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Besar & Lurus",
+        "tinggi": "60 cm",
+        "umur": "24 bulan",
+        "akar": "Banyak & Bercabang",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar tapi Kuning",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "10 cm",
+        "umur": "10 bulan",
+        "akar": "Akar tipis atau pendek",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Layu",
+        "batang": "Retak atau patah",
+        "tinggi": "40 cm",
+        "umur": "7 bulan",
+        "akar": "Akar tipis atau pendek",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Hijau tapi Bercak",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "40 cm",
+        "umur": "8 bulan",
+        "akar": "Sedikit Bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "90 cm",
+        "umur": "24 bulan",
+        "akar": "kuat & sehat",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Layu",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "30 cm",
+        "umur": "11 bulan",
+        "akar": "Sedikit Bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Rusak atau Menggulung",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "20 cm",
+        "umur": "10 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Tegak & tidak layu",
+        "batang": "Kuat & tidak rapuh",
+        "tinggi": "70 cm",
+        "umur": "24 bulan",
+        "akar": "Tumbuh merata",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Layu",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "30 cm",
+        "umur": "8 bulan",
+        "akar": "Akar busuk",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar tapi Kuning",
+        "batang": "Rapuh & kering",
+        "tinggi": "40 cm",
+        "umur": "11 bulan",
+        "akar": "Akar busuk",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Tegak & tidak layu",
+        "batang": "Kulit batang mulus tanpa luka",
+        "tinggi": "60 cm",
+        "umur": "24 bulan",
+        "akar": "kuat & sehat",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Layu",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "50 cm",
+        "umur": "7 bulan",
+        "akar": "Akar busuk",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Sempit & Kuning",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "30 cm",
+        "umur": "10 bulan",
+        "akar": "Akar tipis atau pendek",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Halus tanpa bercak",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "70 cm",
+        "umur": "12 bulan",
+        "akar": "kuat & sehat",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Tegak & tidak layu",
+        "batang": "Kuat & tidak rapuh",
+        "tinggi": "70 cm",
+        "umur": "12 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar tapi Kuning",
+        "batang": "Rapuh & kering",
+        "tinggi": "40 cm",
+        "umur": "8 bulan",
+        "akar": "Akar tipis atau pendek",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Kulit batang mulus tanpa luka",
+        "tinggi": "90 cm",
+        "umur": "12 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Sempit & Kuning",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "30 cm",
+        "umur": "7 bulan",
+        "akar": "Akar busuk",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Halus tanpa bercak",
+        "batang": "Kuat & tidak rapuh",
+        "tinggi": "80 cm",
+        "umur": "24 bulan",
+        "akar": "Banyak & Bercabang",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Rusak atau Menggulung",
+        "batang": "Rapuh & kering",
+        "tinggi": "20 cm",
+        "umur": "5 bulan",
+        "akar": "Akar busuk",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar tapi Kuning",
+        "batang": "Retak atau patah",
+        "tinggi": "40 cm",
+        "umur": "6 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Besar & Lurus",
+        "tinggi": "80 cm",
+        "umur": "12 bulan",
+        "akar": "Banyak & Bercabang",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar & Hijau",
+        "batang": "Besar & Lurus",
+        "tinggi": "60 cm",
+        "umur": "24 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar & Hijau",
+        "batang": "Besar & Lurus",
+        "tinggi": "80 cm",
+        "umur": "18 bulan",
+        "akar": "kuat & sehat",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Tegak & tidak layu",
+        "batang": "Kuat & tidak rapuh",
+        "tinggi": "80 cm",
+        "umur": "18 bulan",
+        "akar": "kuat & sehat",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Tegak & tidak layu",
+        "batang": "Kuat & tidak rapuh",
+        "tinggi": "60 cm",
+        "umur": "12 bulan",
+        "akar": "Banyak & Bercabang",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Halus tanpa bercak",
+        "batang": "Kulit batang mulus tanpa luka",
+        "tinggi": "90 cm",
+        "umur": "18 bulan",
+        "akar": "kuat & sehat",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar & Hijau",
+        "batang": "Besar & Lurus",
+        "tinggi": "60 cm",
+        "umur": "18 bulan",
+        "akar": "kuat & sehat",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Halus tanpa bercak",
+        "batang": "Kuat & tidak rapuh",
+        "tinggi": "60 cm",
+        "umur": "18 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Kuat & tidak rapuh",
+        "tinggi": "80 cm",
+        "umur": "18 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Hijau tapi Bercak",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "60 cm",
+        "umur": "5 bulan",
+        "akar": "Akar busuk",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Kulit batang mulus tanpa luka",
+        "tinggi": "90 cm",
+        "umur": "12 bulan",
+        "akar": "Banyak & Bercabang",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Tegak & tidak layu",
+        "batang": "Besar & Lurus",
+        "tinggi": "60 cm",
+        "umur": "24 bulan",
+        "akar": "Tumbuh merata",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Halus tanpa bercak",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "90 cm",
+        "umur": "24 bulan",
+        "akar": "Banyak & Bercabang",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Rusak atau Menggulung",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "30 cm",
+        "umur": "8 bulan",
+        "akar": "Sedikit Bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Halus tanpa bercak",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "60 cm",
+        "umur": "12 bulan",
+        "akar": "kuat & sehat",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Sempit & Kuning",
+        "batang": "Rapuh & kering",
+        "tinggi": "30 cm",
+        "umur": "10 bulan",
+        "akar": "Sedikit Bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Sempit & Kuning",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "10 cm",
+        "umur": "5 bulan",
+        "akar": "Sedikit Bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar tapi Kuning",
+        "batang": "Rapuh & kering",
+        "tinggi": "60 cm",
+        "umur": "5 bulan",
+        "akar": "Akar tipis atau pendek",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Tegak & tidak layu",
+        "batang": "Besar & Lurus",
+        "tinggi": "80 cm",
+        "umur": "24 bulan",
+        "akar": "Tumbuh merata",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Rusak atau Menggulung",
+        "batang": "Retak atau patah",
+        "tinggi": "40 cm",
+        "umur": "7 bulan",
+        "akar": "Akar busuk",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Tegak & tidak layu",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "80 cm",
+        "umur": "18 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Sempit & Kuning",
+        "batang": "Rapuh & kering",
+        "tinggi": "60 cm",
+        "umur": "8 bulan",
+        "akar": "Sedikit Bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "70 cm",
+        "umur": "12 bulan",
+        "akar": "kuat & sehat",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Hijau tapi Bercak",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "50 cm",
+        "umur": "9 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar & Hijau",
+        "batang": "Kuat & tidak rapuh",
+        "tinggi": "90 cm",
+        "umur": "24 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar & Hijau",
+        "batang": "Kuat & tidak rapuh",
+        "tinggi": "90 cm",
+        "umur": "12 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Tegak & tidak layu",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "70 cm",
+        "umur": "18 bulan",
+        "akar": "Banyak & Bercabang",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Halus tanpa bercak",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "60 cm",
+        "umur": "12 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Rusak atau Menggulung",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "20 cm",
+        "umur": "11 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Halus tanpa bercak",
+        "batang": "Kulit batang mulus tanpa luka",
+        "tinggi": "80 cm",
+        "umur": "24 bulan",
+        "akar": "Banyak & Bercabang",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Sempit & Kuning",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "50 cm",
+        "umur": "11 bulan",
+        "akar": "Akar tipis atau pendek",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Hijau tapi Bercak",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "60 cm",
+        "umur": "8 bulan",
+        "akar": "Akar tipis atau pendek",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Halus tanpa bercak",
+        "batang": "Besar & Lurus",
+        "tinggi": "80 cm",
+        "umur": "24 bulan",
+        "akar": "Tumbuh merata",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar tapi Kuning",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "20 cm",
+        "umur": "7 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Besar & Lurus",
+        "tinggi": "60 cm",
+        "umur": "18 bulan",
+        "akar": "kuat & sehat",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Layu",
+        "batang": "Rapuh & kering",
+        "tinggi": "20 cm",
+        "umur": "7 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar & Hijau",
+        "batang": "Besar & Lurus",
+        "tinggi": "70 cm",
+        "umur": "12 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Sempit & Kuning",
+        "batang": "Retak atau patah",
+        "tinggi": "30 cm",
+        "umur": "6 bulan",
+        "akar": "Akar busuk",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Sempit & Kuning",
+        "batang": "Rapuh & kering",
+        "tinggi": "10 cm",
+        "umur": "7 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Tegak & tidak layu",
+        "batang": "Besar & Lurus",
+        "tinggi": "70 cm",
+        "umur": "12 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Tegak & tidak layu",
+        "batang": "Besar & Lurus",
+        "tinggi": "70 cm",
+        "umur": "18 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar & Hijau",
+        "batang": "Kulit batang mulus tanpa luka",
+        "tinggi": "60 cm",
+        "umur": "12 bulan",
+        "akar": "kuat & sehat",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Besar & Lurus",
+        "tinggi": "70 cm",
+        "umur": "12 bulan",
+        "akar": "Banyak & Bercabang",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar tapi Kuning",
+        "batang": "Rapuh & kering",
+        "tinggi": "30 cm",
+        "umur": "8 bulan",
+        "akar": "Akar tipis atau pendek",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar & Hijau",
+        "batang": "Kuat & tidak rapuh",
+        "tinggi": "90 cm",
+        "umur": "18 bulan",
+        "akar": "Tumbuh merata",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Rusak atau Menggulung",
+        "batang": "Retak atau patah",
+        "tinggi": "20 cm",
+        "umur": "6 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Halus tanpa bercak",
+        "batang": "Berwarna coklat tua",
+        "tinggi": "70 cm",
+        "umur": "24 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Layu",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "20 cm",
+        "umur": "10 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Halus tanpa bercak",
+        "batang": "Besar & Lurus",
+        "tinggi": "80 cm",
+        "umur": "18 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Layu",
+        "batang": "Rapuh & kering",
+        "tinggi": "10 cm",
+        "umur": "11 bulan",
+        "akar": "Sedikit Bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Besar & Lurus",
+        "tinggi": "60 cm",
+        "umur": "12 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Rusak atau Menggulung",
+        "batang": "Retak atau patah",
+        "tinggi": "50 cm",
+        "umur": "8 bulan",
+        "akar": "Sedikit Bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Layu",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "50 cm",
+        "umur": "8 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar tapi Kuning",
+        "batang": "Rapuh & kering",
+        "tinggi": "50 cm",
+        "umur": "10 bulan",
+        "akar": "Akar tipis atau pendek",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Rusak atau Menggulung",
+        "batang": "Retak atau patah",
+        "tinggi": "40 cm",
+        "umur": "9 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Sempit & Kuning",
+        "batang": "Rapuh & kering",
+        "tinggi": "10 cm",
+        "umur": "5 bulan",
+        "akar": "Akar tipis atau pendek",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Hijau tapi Bercak",
+        "batang": "Retak atau patah",
+        "tinggi": "40 cm",
+        "umur": "8 bulan",
+        "akar": "Akar busuk",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Sempit & Kuning",
+        "batang": "Rapuh & kering",
+        "tinggi": "10 cm",
+        "umur": "6 bulan",
+        "akar": "Akar busuk",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Halus tanpa bercak",
+        "batang": "Kulit batang mulus tanpa luka",
+        "tinggi": "80 cm",
+        "umur": "24 bulan",
+        "akar": "Tumbuh merata",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar tapi Kuning",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "40 cm",
+        "umur": "7 bulan",
+        "akar": "Akar tipis atau pendek",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Kuat & tidak rapuh",
+        "tinggi": "60 cm",
+        "umur": "12 bulan",
+        "akar": "Tumbuh merata",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar & Hijau",
+        "batang": "Kuat & tidak rapuh",
+        "tinggi": "90 cm",
+        "umur": "18 bulan",
+        "akar": "Tidak busuk",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar tapi Kuning",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "40 cm",
+        "umur": "8 bulan",
+        "akar": "Sedikit Bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Rusak atau Menggulung",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "60 cm",
+        "umur": "5 bulan",
+        "akar": "Sedikit Bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Layu",
+        "batang": "Rapuh & kering",
+        "tinggi": "60 cm",
+        "umur": "6 bulan",
+        "akar": "Akar tipis atau pendek",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Halus tanpa bercak",
+        "batang": "Kulit batang mulus tanpa luka",
+        "tinggi": "60 cm",
+        "umur": "12 bulan",
+        "akar": "Tumbuh merata",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Rusak atau Menggulung",
+        "batang": "Rapuh & kering",
+        "tinggi": "20 cm",
+        "umur": "10 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Layu",
+        "batang": "Retak atau patah",
+        "tinggi": "40 cm",
+        "umur": "5 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Layu",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "30 cm",
+        "umur": "11 bulan",
+        "akar": "Sedikit Bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar tapi Kuning",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "20 cm",
+        "umur": "6 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Rusak atau Menggulung",
+        "batang": "Retak atau patah",
+        "tinggi": "10 cm",
+        "umur": "6 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Mengkilap & sehat",
+        "batang": "Kulit batang mulus tanpa luka",
+        "tinggi": "90 cm",
+        "umur": "18 bulan",
+        "akar": "Tumbuh merata",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Layu",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "20 cm",
+        "umur": "8 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Halus tanpa bercak",
+        "batang": "Besar & Lurus",
+        "tinggi": "70 cm",
+        "umur": "12 bulan",
+        "akar": "kuat & sehat",
+        "kualitas": "Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Hijau tapi Bercak",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "50 cm",
+        "umur": "7 bulan",
+        "akar": "Akar busuk",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Sempit & Kuning",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "20 cm",
+        "umur": "6 bulan",
+        "akar": "Akar tipis atau pendek",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Layu",
+        "batang": "Rapuh & kering",
+        "tinggi": "20 cm",
+        "umur": "6 bulan",
+        "akar": "Sedikit Bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Layu",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "20 cm",
+        "umur": "9 bulan",
+        "akar": "Akar tipis atau pendek",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Hijau tapi Bercak",
+        "batang": "Lurus tapi kecil",
+        "tinggi": "20 cm",
+        "umur": "7 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Lebar tapi Kuning",
+        "batang": "Besar tapi bengkok",
+        "tinggi": "20 cm",
+        "umur": "6 bulan",
+        "akar": "Sedikit Bercabang",
+        "kualitas": "Tidak Berkualitas"
+    },
+    {
+        "jenis": "zanzibar",
+        "daun": "Sempit & Kuning",
+        "batang": "Retak atau patah",
+        "tinggi": "20 cm",
+        "umur": "6 bulan",
+        "akar": "Tidak bercabang",
+        "kualitas": "Tidak Berkualitas"
+    }
+]

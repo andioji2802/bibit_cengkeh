@@ -1,0 +1,16 @@
+*   Trying ::1:80...
+* Connected to localhost (::1) port 80 (#0)
+> POST /Revisi1/User/detail.php HTTP/1.1
+Host: localhost
+Accept: */*
+Content-Length: 147
+Content-Type: application/x-www-form-urlencoded
+
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 404 Not Found
+< Date: Sun, 18 Aug 2024 05:58:00 GMT
+< Server: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.0.28
+< Content-Length: 296
+< Content-Type: text/html; charset=iso-8859-1
+< 
+* Connection #0 to host localhost left intact

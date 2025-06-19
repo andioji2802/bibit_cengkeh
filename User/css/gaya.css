@@ -1,0 +1,149 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+    -webkit-box-shadow: 0 10px 10px -2px rgba(0,0,0,.1);
+    -moz-box-shadow: 0 10px 10px -2px rgba(0,0,0,.1);
+    box-shadow: 0 10px 10px -2px rgba(0,0,0,.1);
+    font-size: 18px;
+    color: #222;
+}
+
+.active {
+    font-weight: bold;
+    color: #363732;
+}
+
+.tebal{
+    color: #363732;
+    font-weight: bold;
+}
+
+.text-abu1{
+    color: #3b3b39;
+}
+
+.desc{
+    font-size: 18px;
+    line-height: 30.24px;
+    text-align: justify;
+}
+
+.tengah{
+    justify-content:center;
+}
+
+/* footer */
+.abu1{
+    background-color: #EFF1F3;
+}
+
+.abu2{
+    background-color: #363732;
+}
+
+.footer-copyright{
+    color: #fff;
+}
+
+.footer-copyright a{
+    color: #fff;
+}
+
+.icn{
+    color: #363732;
+}
+
+/* Bagian Jenis Cengkeh */
+.jenis-cengkeh {
+    background-color: #d0e9ff; /* Warna latar belakang biru muda untuk jenis cengkeh */
+    border: 1px solid #b0c4de; /* Garis tepi kotak jenis cengkeh */
+    padding: 20px; /* Spasi dalam kotak jenis cengkeh */
+    border-radius: 5px; /* Sudut yang melengkung pada kotak jenis cengkeh */
+    margin-bottom: 20px; /* Jarak bawah dari jenis cengkeh */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Bayangan ringan untuk efek elegan */
+    /* Menambahkan margin-left untuk indentasi jika diperlukan */
+    margin-left: 20px; /* Jarak indentasi dari sisi kiri */
+}
+
+/* Bagian Ciri Bibit */
+.ciri-bibit {
+    background-color: #fddfdf; /* Warna latar belakang merah muda untuk ciri bibit */
+    border: 1px solid #fbb1b1; /* Garis tepi kotak ciri bibit */
+    padding: 20px; /* Spasi dalam kotak ciri bibit */
+    border-radius: 5px; /* Sudut yang melengkung pada kotak ciri bibit */
+    margin-top: 20px; /* Jarak dari elemen atas */
+    margin-left: 20px; /* Jarak indentasi dari sisi kiri */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Bayangan ringan untuk efek elegan */
+}
+
+/* Judul di dalam kotak ciri bibit */
+.ciri-bibit h4 {
+    border: none; /* Menghilangkan garis bawah */
+    padding-bottom: 5px; /* Jarak antara teks dan garis bawah, jika ada */
+    margin-bottom: 15px; /* Jarak antara garis bawah dan isi kotak */
+    color: #d9534f; /* Warna teks judul merah */
+}
+
+/* Styling untuk form-group */
+.form-group {
+    margin-bottom: 15px; /* Jarak antara inputan */
+}
+
+/* Styling untuk inputan select pada bagian Jenis Cengkeh */
+.jenis-cengkeh .form-group select {
+    background-color: #fddfdf; /* Warna latar belakang inputan pada jenis cengkeh */
+    border: 1px solid #fbb1b1; /* Garis tepi inputan pada jenis cengkeh */
+    border-radius: 5px; /* Sudut yang melengkung pada inputan */
+}
+
+/* Styling untuk inputan select pada bagian Ciri Bibit */
+.ciri-bibit .form-group select {
+    background-color: #d0e9ff; /* Warna latar belakang inputan pada ciri bibit */
+    border: 1px solid #b0c4de; /* Garis tepi inputan pada ciri bibit */
+    border-radius: 5px; /* Sudut yang melengkung pada inputan */
+}
+
+.hasil-klasifikasi {
+    padding: 20px; /* Spasi dalam kotak hasil klasifikasi */
+    border-radius: 5px; /* Sudut yang melengkung pada kotak hasil klasifikasi */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Bayangan ringan untuk efek elegan */
+    margin-bottom: 20px; /* Jarak bawah dari kotak hasil klasifikasi */
+}
+
+.hasil-berkualitas {
+    background-color: #d0e9ff; /* Warna latar belakang biru muda untuk berkualitas */
+    border: 1px solid #b0c4de; /* Garis tepi kotak berkualitas */
+    padding: 20px; /* Spasi dalam kotak berkualitas */
+    border-radius: 5px; /* Sudut yang melengkung pada kotak berkualitas */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Bayangan ringan untuk efek elegan */
+    margin-bottom: 20px; /* Jarak bawah dari kotak berkualitas */
+}
+
+.hasil-tidak-berkualitas {
+    background-color: #fddfdf; /* Warna latar belakang merah muda untuk tidak berkualitas */
+    border: 1px solid #fbb1b1; /* Garis tepi kotak tidak berkualitas */
+    padding: 20px; /* Spasi dalam kotak tidak berkualitas */
+    border-radius: 5px; /* Sudut yang melengkung pada kotak tidak berkualitas */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Bayangan ringan untuk efek elegan */
+    margin-bottom: 20px; /* Jarak bawah dari kotak tidak berkualitas */
+}
+
+.hasil-berkualitas h2, .hasil-tidak-berkualitas h2 {
+    color: #363732; /* Warna teks judul */
+}
+
+.hasil-berkualitas p, .hasil-tidak-berkualitas p {
+    font-size: 18px; /* Ukuran font untuk hasil */
+}
+
+button[type="submit"],
+button[type="button"] {
+    margin-bottom: 0;
+}
+
+.hasil-klasifikasi {
+    margin-top: 0;
+    padding-top: 0;
+}
